@@ -1,10 +1,10 @@
-*标题: Trusted Third Parties are Security Holes*
+*标题：Trusted Third Parties are Security Holes*
 
-*作者: Nick Szabo*
+*作者：Nick Szabo*
 
-*来源: https://nakamotoinstitute.org/trusted-third-parties/*
+*来源：https://nakamotoinstitute.org/trusted-third-parties/*
 
-*译者: ViolaH & 阿剑（hongji@ethfans.org）*
+*译者：ViolaH & 阿剑（hongji@ethfans.org）*
 
 ---
 

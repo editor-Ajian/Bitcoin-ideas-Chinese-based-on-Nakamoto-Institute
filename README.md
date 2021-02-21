@@ -26,19 +26,19 @@
 2. 本仓库将设立两个分支，master 和 dev，dev 分支用于接受大家的贡献，master 分支用于固化这些贡献
 3. 贡献翻译请直接将内容发往对应的文件夹
 4. 贡献翻译请使用 .md 文档格式
-5. 文件的命名请直接使用标题所译出的中文，例：
+5. 文件的命名请直接使用“作者 + 标题所译出的中文”，例：
 
->密码学朋克宣言.md
+>Eric Hughes：密码学朋克宣言.md
 
 6. 文档的开头用斜体标示原文的标题、作者、来源网址、译者姓名及邮箱，例：
 
-> *标题: Trusted Third Parties are Security Holes*
+> *标题：Trusted Third Parties are Security Holes*
 >
-> *作者: Nick Szabo*
+> *作者：Nick Szabo*
 >
-> *来源: https://nakamotoinstitute.org/trusted-third-parties/*
+> *来源：https://nakamotoinstitute.org/trusted-third-parties/*
 >
-> *译者: 阿剑（hongji@ethfans.org）*
+> *译者：阿剑（hongji@ethfans.org）*
 
 7. 请使用 markdown 语法，保证译本与来源的格式（标题、粗体、斜体、超链接）一致
 8. 翻译上的争议可通过提交 Issue 指出。
