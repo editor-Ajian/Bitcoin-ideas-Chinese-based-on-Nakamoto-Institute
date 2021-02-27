@@ -1,3 +1,12 @@
+---
+title: Nick Szabo：受信任第三方即是安全漏洞
+data: "2021/2/27 17:21:30"
+excerpt: "在安全协议中，TTP 的假设是大多数的成本和风险的根源，相应地，修复 TTP 的安全漏洞会产出很大效益。"
+tags:
+- Nick Szabo
+- 安全性
+---
+
 *标题：Trusted Third Parties are Security Holes*
 
 *作者：Nick Szabo*
